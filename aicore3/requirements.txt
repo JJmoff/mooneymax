@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+asyncpg
+httpx
+pydantic
+pydantic-settings
+sentence-transformers
+unstructured[all-docs]
+langchain
+langchain-core
+langchain-google-genai
+langgraph
